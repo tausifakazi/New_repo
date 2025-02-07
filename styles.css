@@ -1,0 +1,6 @@
+/* Apply background color to the whole page */
+body {
+    background-color: #3498db;  /* Blue background color (you can change the color) */
+    color: #ffffff;  /* Set the text color to white for contrast */
+  }
+  
